@@ -33,7 +33,7 @@ const socialMediaLinks = {
   gmail: "bethc1@student.unimelb.edu.au",
   scholar: "https://scholar.google.com.au/citations?user=1RDicMMAAAAJ&hl=en",
   twitter: "https://twitter.com/bethclarke_",
-  osf: "https://osf.io/profile/",
+  osf: "https://osf.io/yx6t3",
   display: true // Set true to display this section, defaults to false
 };
 
