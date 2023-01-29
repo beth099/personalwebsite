@@ -39,66 +39,21 @@ const socialMediaLinks = {
 
 // Skills Section
 const skillsSection = {
-  title: "What I do",
-  subTitle: "My studies and work experience have taught me a wide range of tools to solve problems",
+  title: "Interests",
+  subTitle: "",
   skills: [
-    ["Data analysis", "machine learning, optimisation"],
-    ["Hardware design", "circuits, CAD"],
-    ["Software design", "apps, algorithms, testing"],
-    ["My passion", "connecting the above!"]
+    ["Metaresearch, research methods"],
+    ["Philosophy of science"],
+    ["Social and personality psychology"]
   ],
 
   softwareSkills: [
     {
-      skillName: "Arduino",
-      fontClassname: "devicon-arduino-plain"
-    },
-    {
-      skillName: "C",
-      fontClassname: "devicon-c-plain"
-    },
-    {
-      skillName: "C++",
-      fontClassname: "devicon-cplusplus-plain"
-    },
-    {
-      skillName: "MATLAB",
-      fontClassname: "devicon-matlab-plain"
-    },
-    {
-      skillName: "nodejs",
-      fontClassname: "devicon-nodejs-plain"
-    },
-    {
-      skillName: "python",
-      fontClassname: "devicon-python-plain"
-    },
-    {
-      skillName: "aws",
-      fontClassname: "devicon-amazonwebservices-original"
-    },
-    {
-      skillName: "docker",
-      fontClassname: "devicon-docker-plain"
-    },
-    {
-      skillName: "Git",
-      fontClassname: "devicon-git-plain"
-    },
-    {
-      skillName: "MySQL",
-      fontClassname: "devicon-mysql-plain"
-    },
-    {
-      skillName: "OpenCV",
-      fontClassname: "devicon-opencv-plain"
-    },
-    {
-      skillName: "Tensorflow",
-      fontClassname: "devicon-tensorflow-original"
+      skillName: "",
+      fontClassname: ""
     }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Research Section
@@ -234,7 +189,31 @@ const workExperiences = {
         "Attended regular lab meetings which focused on ongoing projects in the lab"
       ],
       color: [24, 63, 128]
-    }
+    },
+    {
+      role: "Casual Lecturer",
+      company: "Teaching Experience",
+      companylogo: require("./assets/images/uomLogo.png"),
+      date: "Semester 2 2022, Semester 2 2023",
+      desc: "Class: Graduate Research Methods PSYC90029",
+      descBullets: [
+        "I teach 6 weeks of a research methods course for Masters students in Clinical Psychology, including lectures on the replicability crisis and statistical inferences",
+        "I mark student assessments where the students critically discuss their research proposals for their Master’s thesis"
+      ],
+      color: [24, 63, 128]
+     },
+     {
+      role: "Academic Tutor",
+      company: "Teaching Experience",
+      companylogo: require("./assets/images/uomLogo.png"),
+      date: "Jul 2022 - present",
+      desc: "Class: Personality and Social Psychology PSYC20009",
+      descBullets: [
+        "Taught fortnightly lab classes over a semester that focused on key topics in social and personality psychology",
+        "Marked student lab reports"
+      ],
+      color: [24, 63, 128]
+     }
   ]
 };
 
@@ -243,7 +222,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 
