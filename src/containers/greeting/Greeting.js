@@ -35,8 +35,6 @@ export default function Greeting() {
                     : "greeting-text-p subTitle"
                 }
               >
-              I am a psych PhD student  in the 
-              <a href="https://Metamelb.org"> MetaMelb Lab </a>, an interdisciplinary metaresearch (research on research) lab at the <a href="https://unimelb.edu.au">University of Melbourne</a>. I study research norms and practices in social and personality psychology, and how these have changed over the course of the recent replication crisis.
               </p>
               <SocialMedia />
               <div className="button-greeting-div">

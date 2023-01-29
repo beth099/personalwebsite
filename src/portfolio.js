@@ -20,7 +20,7 @@ const illustration = {
 const greeting = {
   username: "Beth Clarke",
   title: "Hi, I'm Beth",
-  subTitle: "", // edit greeting.js to change bio
+  subTitle: "I am a psych PhD student  in the MetaMelb Lab, an interdisciplinary metaresearch (research on research) lab at the University of Melbourne. I study research norms and practices in social and personality psychology, and how these have changed over the course of the recent replication crisis.", // if you want to add link, change bio in Greeting.js
   resumeLink:
     "https://drive.google.com/file/d/1QkykClKfFbeao5l67XuiEK7BYT9Nt_6i/view",
   displayGreeting: true // Set false to hide this section, defaults to true
