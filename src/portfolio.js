@@ -167,30 +167,6 @@ const workExperiences = {
       color: [24, 63, 128]
     },
     {
-      role: "Research Intern",
-      company: "Personality Processes Lab",
-      companylogo: require("./assets/images/uomLogo.png"),
-      date: "Jul 2020 – Jan 2021",
-      desc: "PI: A/Prof. Luke Smillie",
-      descBullets: [
-        "Assisted data coding for two personality related projects",
-        "Attended regular lab meetings, which discuss the most up-to date topics in personality psychology"
-      ],
-      color: [24, 63, 128]
-    },
-    {
-      role: "Research Intern",
-      company: "Memory and Language Lab",
-      companylogo: require("./assets/images/uomLogo.png"),
-      date: "Jul 2020 – Jan 2021",
-      desc: "PI: Prof. Simon Dennis",
-      descBullets: [
-        "Coded word cues in a language acquisition project",
-        "Attended regular lab meetings which focused on ongoing projects in the lab"
-      ],
-      color: [24, 63, 128]
-    },
-    {
       role: "Casual Lecturer",
       company: "Teaching Experience",
       companylogo: require("./assets/images/uomLogo.png"),
