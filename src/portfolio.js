@@ -20,7 +20,7 @@ const illustration = {
 const greeting = {
   username: "Beth Clarke",
   title: "Hi, I'm Beth",
-  subTitle: "I am a psych PhD student  in the MetaMelb Lab, an interdisciplinary metaresearch (research on research) lab at the University of Melbourne. I study research norms and practices in social and personality psychology, and how these have changed over the course of the recent replication crisis.", // if you want to add link, change bio in Greeting.js
+  subTitle: "", // if you want to add link, change bio in Greeting.js
   resumeLink:
     "https://drive.google.com/file/d/1QkykClKfFbeao5l67XuiEK7BYT9Nt_6i/view",
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -197,8 +197,8 @@ const workExperiences = {
       date: "Semester 2 2022, Semester 2 2023",
       desc: "Class: Graduate Research Methods PSYC90029",
       descBullets: [
-        "I teach 6 weeks of a research methods course for Masters students in Clinical Psychology, including lectures on the replicability crisis and statistical inferences",
-        "I mark student assessments where the students critically discuss their research proposals for their Master’s thesis"
+        "I deliver lectures on the replicability crisis and statistical inference",
+        "I assess students' assignments involving critical discussion of their research proposals for their Master’s thesis"
       ],
       color: [24, 63, 128]
      },
@@ -209,8 +209,8 @@ const workExperiences = {
       date: "Jul 2022 - present",
       desc: "Class: Personality and Social Psychology PSYC20009",
       descBullets: [
-        "Taught fortnightly lab classes over a semester that focused on key topics in social and personality psychology",
-        "Marked student lab reports"
+        "Teach classes that focus on key topics in social and personality psychology",
+        "Mark student lab reports"
       ],
       color: [24, 63, 128]
      }
