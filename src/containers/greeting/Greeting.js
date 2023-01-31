@@ -35,7 +35,7 @@ export default function Greeting() {
                     : "greeting-text-p subTitle"
                 }
               >
-              I am a psych PhD student  in the MetaMelb Lab, an interdisciplinary metaresearch (research on research) lab at the University of Melbourne. I study research norms and practices in social and personality psychology, and how these have changed over the course of the recent replication crisis.
+              I am a psych PhD student at the University of Melbourne in the MetaMelb Lab. I study research norms and practices in social and personality psychology, and how these have changed over the course of the recent replication crisis. I am especially interested in understanding how science generates and disseminates knowledge.
               </p>
               <SocialMedia />
               <div className="button-greeting-div">
