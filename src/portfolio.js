@@ -70,7 +70,8 @@ const researchInfo = {
     },
     {
       title: "The prejudices of expert evidence.",
-      authors: "Chin, J., Cullen, H. J., & Clarke, B. (2022)",
+      authors: "Chin, J., Cullen, H. J., & Clarke, B.",
+      year: "(2022)",
       venue: "Monash Law Review. 48(2), 59 - 96. https://doi.org/10.26180/21899295.v2",
       doi: "https://osf.io/nxcvy/"
     }
