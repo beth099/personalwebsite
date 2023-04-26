@@ -63,18 +63,17 @@ const researchInfo = {
     {
       title: "What limitations are reported in short articles in" + 
       " social and personality psychology?",
-      authors: "Clarke, B., Schiavone, S. R., & Vazire, S.",
-      venue: "Journal of Personality and Social Psychology",
+      authors: "Clarke, B., Schiavone, S. R., & Vazire, S. (2023)",
+      venue: "Journal of Personality and Social Psychology. https://doi.org/10.1037/pspp0000458",
       doi: "https://psyarxiv.com/n4eq7/",
-      doi: "https://doi.org/10.1037/pspp0000458",
-      year: "2023"
+      year: ""
     },
     {
       title: "The prejudices of expert evidence.",
-      authors: "Chin, J., Cullen, H. J., & Clarke, B.",
-      venue: "Monash Law Review",
+      authors: "Chin, J., Cullen, H. J., & Clarke, B. (2022)",
+      venue: "Monash Law Review. 48(2), 59 - 96. https://doi.org/10.26180/21899295.v2",
       doi: "https://osf.io/nxcvy/",
-      year: "accepted 2021."
+      year: ""
     }
   ]
 };
