@@ -64,7 +64,8 @@ const researchInfo = {
       title: "What limitations are reported in short articles in" + 
       " social and personality psychology?",
       authors: "Clarke, B., Schiavone, S. R., & Vazire, S. (2023)",
-      venue: "Journal of Personality and Social Psychology. https://doi.org/10.1037/pspp0000458",
+      year: "(2023)",
+      venue: italics("Journal of Personality and Social Psychology.")+"https://doi.org/10.1037/pspp0000458",
       doi: "https://psyarxiv.com/n4eq7/"
     },
     {
