@@ -25,7 +25,7 @@ export default function ResearchCard({publication, last}) {
                     : "research-text-subHeader"
                 }
               >
-                {publication.authors}
+                {publication.authors}, {publication.year}
               </h5>
               <h5
                 className={
@@ -34,7 +34,7 @@ export default function ResearchCard({publication, last}) {
                     : "research-text-subHeader"
                 }
               >
-                {publication.venue}, {publication.year}
+                {publication.venue}
               </h5>
             </div>
           </div>
