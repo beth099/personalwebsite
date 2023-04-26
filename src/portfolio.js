@@ -66,7 +66,8 @@ const researchInfo = {
       authors: "Clarke, B., Schiavone, S. R., & Vazire, S.",
       venue: "Journal of Personality and Social Psychology",
       doi: "https://psyarxiv.com/n4eq7/",
-      year: "in press."
+      doi: "https://doi.org/10.1037/pspp0000458",
+      year: "2023"
     },
     {
       title: "The prejudices of expert evidence.",
