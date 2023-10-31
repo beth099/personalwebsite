@@ -65,14 +65,22 @@ const researchInfo = {
       " social and personality psychology?",
       authors: "Clarke, B., Schiavone, S. R., & Vazire, S.",
       year: "(2023)",
-      venue: italics("Journal of Personality and Social Psychology.")+"https://doi.org/10.1037/pspp0000458",
+      venue: "Journal of Personality and Social Psychology",
+      volume: "125",
+      issue: "4",
+      page: "874-901",
+      link: "https://doi.org/10.1037/pspp0000458",
       doi: "https://psyarxiv.com/n4eq7/"
     },
     {
       title: "The prejudices of expert evidence.",
       authors: "Chin, J., Cullen, H. J., & Clarke, B.",
       year: "(2022)",
-      venue: "Monash Law Review. 48(2), 59 - 96. https://doi.org/10.26180/21899295.v2",
+      venue: "Monash Law Review",
+      volume: "48",
+      issue: "2",
+      page: "59-96",
+      link: "https://doi.org/10.26180/21899295.v2",
       doi: "https://osf.io/nxcvy/"
     }
   ]

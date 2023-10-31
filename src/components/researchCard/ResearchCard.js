@@ -34,7 +34,7 @@ export default function ResearchCard({publication, last}) {
                     : "research-text-subHeader"
                 }
               >
-                {publication.venue}
+                <i>{publication.venue + (publication.volume ? ", " + publication.volume: "")}</i>({publication.issue}){publication.page ? ", "+publication.page.replaceAll("-", "–") : ""}. {publication.link}
               </h5>
             </div>
           </div>

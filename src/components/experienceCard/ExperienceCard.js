@@ -1,6 +1,8 @@
 import React, {useState, createRef} from "react";
 import "./ExperienceCard.scss";
 import ColorThief from "colorthief";
+import {Fade} from "react-reveal";
+
 
 export default function ExperienceCard({cardInfo, isDark}) {
   const [colorArrays, setColorArrays] = useState([]);
@@ -31,6 +33,7 @@ export default function ExperienceCard({cardInfo, isDark}) {
   };
 
   return (
+    <Fade bottom duration={1000} distance="20px">
     <div className={isDark ? "experience-card-dark" : "experience-card"}>
       <div style={{background: (cardInfo.color ? rgb(cardInfo.color) : rgb(colorArrays))}} className="experience-banner">
         <div className="experience-blurred_div"></div>
@@ -79,5 +82,6 @@ export default function ExperienceCard({cardInfo, isDark}) {
         </ul>
       </div>
     </div>
+    </Fade>
   );
 }
