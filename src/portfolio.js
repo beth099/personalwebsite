@@ -62,7 +62,7 @@ const researchInfo = {
   publications: [
     {
       title: "The Prevalence of Direct Replication Articles in Top-Ranking Psychology Journals",
-      authors: "Clarke, B., Schiavone, S. R., Lee, P. Y., Rhemtulla, M. & Vazire, S.",
+      authors: "Clarke, B., Lee, P. Y., Schiavone, S. R., Rhemtulla, M. & Vazire, S.",
       year: "",
       venue: "",
       volume: "",
