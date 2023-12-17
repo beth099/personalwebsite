@@ -61,6 +61,28 @@ const researchInfo = {
   display: true, // Set false to hide this section, defaults to true
   publications: [
     {
+      title: "The Prevalence of Direct Replication Articles in Top-Ranking Psychology Journals",
+      authors: "Clarke, B., Schiavone, S. R., Lee, P. Y., Rhemtulla, M. & Vazire, S.",
+      year: "",
+      venue: "",
+      volume: "",
+      issue: "2023",
+      page: "",
+      link: "PsyArXiv. https://doi.org/10.31234/osf.io/sa6rc",
+      doi: " https://osf.io/preprints/psyarxiv/sa6rc"
+    },
+    {
+      title: "Looking Our Limitations in the Eye: A Tutorial for Writing About Research Limitations in Psychology",
+      authors: "Clarke, B., Alley, L. J., Ghai, S., Flake, J. K., Rohrer, J. M., Simmons, J. P., Schiavone, S. R., & Vazire, S.",
+      year: "",
+      venue: "",
+      volume: "",
+      issue: "2023",
+      page: "",
+      link: "PsyArXiv. https://doi.org/10.31234/osf.io/386bh",
+      doi: "https://osf.io/preprints/psyarxiv/386bh"
+    },
+    {
       title: "What limitations are reported in short articles in" + 
       " social and personality psychology?",
       authors: "Clarke, B., Schiavone, S. R., & Vazire, S.",
@@ -71,6 +93,17 @@ const researchInfo = {
       page: "874-901",
       link: "https://doi.org/10.1037/pspp0000458",
       doi: "https://psyarxiv.com/n4eq7/"
+    },
+    {
+      title: "Dynamics of Social Experiences in the Context of Extended Lockdown.",
+      authors: "Tran, A., Bianchi, V., Moeck, E. K., Clarke, B., Moore, I., Burney, S. J. H., Koval, P., Kalokerinos, E. K., & Greenaway, K. H.",
+      year: "(2023)",
+      venue: "Social Psychological and Personality Science",
+      volume: "0",
+      issue: "0",
+      page: "",
+      link: "https://doi.org/10.1177/19485506231176603",
+      doi: "https://doi.org/10.1177/19485506231176603"
     },
     {
       title: "The prejudices of expert evidence.",
