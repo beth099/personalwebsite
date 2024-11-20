@@ -42,9 +42,9 @@ const skillsSection = {
   title: "Interests",
   subTitle: "",
   skills: [
-    ["Metaresearch, research methods"],
+    ["Metaresearch, research methods, statistics"],
     ["Social and personality psychology"],
-    ["Statistics"]
+    ["Science communication"]
   ],
 
   softwareSkills: [
@@ -66,10 +66,10 @@ const researchInfo = {
       year: "(2024)",
       venue: "American Psychologist",
       volume: "",
-      issue: "",
+      issue: "Advance online publication.",
       page: "",
       link: "https://doi.org/10.1037/amp0001385",
-      doi: " https://doi.org/10.1037/amp0001385"
+      doi: " https://osf.io/preprints/psyarxiv/sa6rc"
     },
     {
       title: "Looking Our Limitations in the Eye: A Tutorial for Writing About Research Limitations in Psychology",
@@ -103,7 +103,7 @@ const researchInfo = {
       issue: "4",
       page: "1-3",
       link: "https://doi.org/10.1177/25152459241283477",
-      doi: "https://doi.org/10.1177/25152459241283477"
+      doi: "https://osf.io/preprints/psyarxiv/t2zs9" 
     },
     {
       title: "An empirical appraisal of eLife’s assessment vocabulary.",
@@ -119,10 +119,10 @@ const researchInfo = {
     {
       title: "How do psychology journals handle post-publication critique? A cross-sectional study of policy and practice..",
       authors: "Whamond, A., Vazire, S., Clarke, B., Moodie, N., Schiavone, S. R., Thibault, R. T., & Hardwicke, T. E. ",
-      year: "(Preprint)",
+      year: "",
       venue: "",
       volume: "",
-      issue: "",
+      issue: "Preprint",
       page: "",
       link: "PsyArXiv, https://osf.io/eadhb/",
       doi: "https://osf.io/eadhb/"
@@ -147,7 +147,7 @@ const researchInfo = {
       issue: "2",
       page: "59-96",
       link: "https://doi.org/10.26180/21899295.v2",
-      doi: "https://osf.io/nxcvy/"
+      doi: "https://doi.org/10.26180/21899295.v2"
     }
   ]
 };
@@ -183,7 +183,7 @@ const educationInfo = {
 
 // Your top 3 proficient stacks/tech experience
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: false, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "Programming", //Insert stack or technology you have experience in
@@ -203,7 +203,7 @@ const techStack = {
 
 // Work experience section
 const workExperiences = {
-  display: false, //Set it to true to show workExperiences Section
+  display: true, //Set it to true to show workExperiences Section
   experience: [
     {
       role: "Research Assistant",
