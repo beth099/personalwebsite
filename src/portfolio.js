@@ -43,8 +43,8 @@ const skillsSection = {
   subTitle: "",
   skills: [
     ["Metaresearch, research methods"],
-    ["Philosophy of science"],
-    ["Social and personality psychology"]
+    ["Social and personality psychology"],
+    ["Statistics"]
   ],
 
   softwareSkills: [
@@ -63,24 +63,24 @@ const researchInfo = {
     {
       title: "The Prevalence of Direct Replication Articles in Top-Ranking Psychology Journals",
       authors: "Clarke, B., Lee, P. Y., Schiavone, S. R., Rhemtulla, M. & Vazire, S.",
-      year: "",
-      venue: "",
+      year: "(2024)",
+      venue: "American Psychologist",
       volume: "",
-      issue: "2023",
+      issue: "",
       page: "",
-      link: "PsyArXiv. https://doi.org/10.31234/osf.io/sa6rc",
-      doi: " https://osf.io/preprints/psyarxiv/sa6rc"
+      link: "https://doi.org/10.1037/amp0001385",
+      doi: " https://doi.org/10.1037/amp0001385"
     },
     {
       title: "Looking Our Limitations in the Eye: A Tutorial for Writing About Research Limitations in Psychology",
       authors: "Clarke, B., Alley, L. J., Ghai, S., Flake, J. K., Rohrer, J. M., Simmons, J. P., Schiavone, S. R., & Vazire, S.",
-      year: "",
-      venue: "",
-      volume: "",
-      issue: "2023",
-      page: "",
-      link: "PsyArXiv. https://doi.org/10.31234/osf.io/386bh",
-      doi: "https://osf.io/preprints/psyarxiv/386bh"
+      year: "(2024)",
+      venue: "Social and Personality Psychology Compass",
+      volume: "18",
+      issue: "7",
+      page: "e12979.",
+      link: "https://doi.org/10.1111/spc3.12979h",
+      doi: "https://doi.org/10.1111/spc3.12979"
     },
     {
       title: "What limitations are reported in short articles in" + 
@@ -95,13 +95,46 @@ const researchInfo = {
       doi: "https://psyarxiv.com/n4eq7/"
     },
     {
+      title: "Prevalence of transparent research practices in empirical psychology articles published in 2022: A cross sectional study.",
+      authors: "Hardwicke, T. E., Thibault, R. T., Clarke, B., Moodie, N., Crüwell, S., Schiavone, S. R., Handcock, S., An Nghiem, K., Mody, F. Eerola, T. & Vazire, S.",
+      year: "(2024)",
+      venue: "Advances in Methods and Practices in Psychological Science",
+      volume: "7",
+      issue: "4",
+      page: "1-3",
+      link: "https://doi.org/10.1177/25152459241283477",
+      doi: "https://doi.org/10.1177/25152459241283477"
+    },
+    {
+      title: "An empirical appraisal of eLife’s assessment vocabulary.",
+      authors: "Hardwicke, T. E., Schiavone, S. R., Clarke, B., & Vazire, S.",
+      year: "(2024)",
+      venue: "PLOS Biology",
+      volume: "22",
+      issue: "8",
+      page: "e3002645",
+      link: "https://doi.org/10.1371/journal.pbio.3002645",
+      doi: "https://doi.org/10.1371/journal.pbio.3002645"
+    },
+    {
+      title: "How do psychology journals handle post-publication critique? A cross-sectional study of policy and practice..",
+      authors: "Whamond, A., Vazire, S., Clarke, B., Moodie, N., Schiavone, S. R., Thibault, R. T., & Hardwicke, T. E. ",
+      year: "(Preprint)",
+      venue: "",
+      volume: "",
+      issue: "",
+      page: "",
+      link: "PsyArXiv, https://osf.io/eadhb/",
+      doi: "https://osf.io/eadhb/"
+    },
+    {
       title: "Dynamics of Social Experiences in the Context of Extended Lockdown.",
       authors: "Tran, A., Bianchi, V., Moeck, E. K., Clarke, B., Moore, I., Burney, S. J. H., Koval, P., Kalokerinos, E. K., & Greenaway, K. H.",
       year: "(2023)",
       venue: "Social Psychological and Personality Science",
-      volume: "0",
-      issue: "0",
-      page: "",
+      volume: "15",
+      issue: "4",
+      page: "395-406",
       link: "https://doi.org/10.1177/19485506231176603",
       doi: "https://doi.org/10.1177/19485506231176603"
     },
@@ -150,7 +183,7 @@ const educationInfo = {
 
 // Your top 3 proficient stacks/tech experience
 const techStack = {
-  viewSkillBars: false, //Set it to true to show Proficiency Section
+  viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "Programming", //Insert stack or technology you have experience in
@@ -170,7 +203,7 @@ const techStack = {
 
 // Work experience section
 const workExperiences = {
-  display: true, //Set it to true to show workExperiences Section
+  display: false, //Set it to true to show workExperiences Section
   experience: [
     {
       role: "Research Assistant",
