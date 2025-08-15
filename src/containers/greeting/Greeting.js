@@ -35,7 +35,7 @@ export default function Greeting() {
                     : "greeting-text-p subTitle"
                 }
               >
-              I am a postdoctoral researcher at the University of Bern, where I am helping to validate RegCheck (regcheck.app). 
+              I am a postdoctoral researcher at the University of Bern, where I am helping to validate RegCheck (regcheck.app). My metaresearch studies how research methods and practices have been changing in psychology (especially social and personality psychology) over the replication crisis.
               </p>
               <SocialMedia />
               <div className="button-greeting-div">
