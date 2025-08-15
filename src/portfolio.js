@@ -124,7 +124,7 @@ const researchInfo = {
       volume: "",
       issue: "",
       page: "",
-      link: "PsyArXiv, https://osf.io/eadhb/",
+      link: "",
       doi: "https://osf.io/eadhb/"
     },
     {
