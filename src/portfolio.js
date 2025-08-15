@@ -119,10 +119,10 @@ const researchInfo = {
     {
       title: "How do psychology journals handle post-publication critique? A cross-sectional study of policy and practice..",
       authors: "Whamond, A., Vazire, S., Clarke, B., Moodie, N., Schiavone, S. R., Thibault, R. T., & Hardwicke, T. E. ",
-      year: "",
-      venue: "",
+      year: "In press",
+      venue: "Advances in Methods and Practices in Psychological Science",
       volume: "",
-      issue: "Preprint",
+      issue: "",
       page: "",
       link: "PsyArXiv, https://osf.io/eadhb/",
       doi: "https://osf.io/eadhb/"
