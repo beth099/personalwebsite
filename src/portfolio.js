@@ -32,7 +32,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/beth-clarke-836a681b0/",
   gmail: "bethc1@student.unimelb.edu.au",
   scholar: "https://scholar.google.com.au/citations?user=1RDicMMAAAAJ&hl=en",
-  twitter: "https://twitter.com/bethclarke_",
+  bluesky: "https://bsky.app/profile/bethclarke.bsky.social",
   osf: "https://osf.io/yx6t3",
   display: true // Set true to display this section, defaults to false
 };
@@ -160,7 +160,7 @@ const educationInfo = {
       schoolName: "The University of Melbourne",
       logo: require("./assets/images/uomLogo.png"),
       subHeader: "PhD in Psychology",
-      duration: "Jan 2022 - present",
+      duration: "Jan 2022 - Submitted June 2025",
       desc: "Studying the state of social and personality psychology from three perspectives:",
       descBullets: [
         "Analyzing and describing common practices in statistical reporting in experimental social psychology",
