@@ -317,7 +317,7 @@ const contactInfo = {
   title: emoji("Contact Me"),
   subtitle:
     "",
-  email_address: "bethc1@student.unimelb.edu.au"
+  email_address: "beth.clarke@unibe.ch"
 };
 
 
