@@ -19,7 +19,7 @@ const illustration = {
 
 const greeting = {
   username: "Beth Clarke",
-  title: "Hi, I'm Beth",
+  title: "Hi, I'm Beth!",
   subTitle: "", // if you want to add link, change bio in Greeting.js
   resumeLink:
     "https://drive.google.com/file/d/1QkykClKfFbeao5l67XuiEK7BYT9Nt_6i/view",
