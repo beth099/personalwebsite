@@ -31,7 +31,7 @@ const socialMediaLinks = {
   github: "https://github.com/beth099",
   linkedin: "https://www.linkedin.com/in/beth-clarke-836a681b0/",
   gmail: "bethc1@student.unimelb.edu.au",
-  scholar: "https://scholar.google.com.au/citations?user=1RDicMMAAAAJ&hl=en",
+  scholar: "https://scholar.google.com/citations?user=KTF_Du0AAAAJ&hl=en",
   bluesky: "https://bsky.app/profile/bethclarke.bsky.social",
   osf: "https://osf.io/yx6t3",
   display: true // Set true to display this section, defaults to false
