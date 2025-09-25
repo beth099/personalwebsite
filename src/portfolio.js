@@ -61,7 +61,7 @@ const researchInfo = {
   display: true, // Set false to hide this section, defaults to true
   publications: [
     {
-      title: "The Prevalence of Direct Replication Articles in Top-Ranking Psychology Journals",
+      title: "The prevalence of direct replication articles in top-ranking psychology journals",
       authors: "Clarke, B., Lee, P. Y., Schiavone, S. R., Rhemtulla, M. & Vazire, S.",
       year: "(2024)",
       venue: "American Psychologist",
@@ -72,14 +72,14 @@ const researchInfo = {
       doi: " https://osf.io/preprints/psyarxiv/sa6rc"
     },
     {
-      title: "Looking Our Limitations in the Eye: A Tutorial for Writing About Research Limitations in Psychology",
+      title: "Looking our limitations in the eye: A tutorial for writing about research limitations in psychology",
       authors: "Clarke, B., Alley, L. J., Ghai, S., Flake, J. K., Rohrer, J. M., Simmons, J. P., Schiavone, S. R., & Vazire, S.",
       year: "(2024)",
       venue: "Social and Personality Psychology Compass",
       volume: "18",
       issue: "7",
-      page: "e12979.",
-      link: "https://doi.org/10.1111/spc3.12979h",
+      page: "e12979",
+      link: "https://doi.org/10.1111/spc3.12979",
       doi: "https://doi.org/10.1111/spc3.12979"
     },
     {
@@ -128,7 +128,7 @@ const researchInfo = {
       doi: "https://osf.io/eadhb/"
     },
     {
-      title: "Dynamics of Social Experiences in the Context of Extended Lockdown.",
+      title: "Dynamics of social experiences in the context of extended lockdown.",
       authors: "Tran, A., Bianchi, V., Moeck, E. K., Clarke, B., Moore, I., Burney, S. J. H., Koval, P., Kalokerinos, E. K., & Greenaway, K. H.",
       year: "(2023)",
       venue: "Social Psychological and Personality Science",
