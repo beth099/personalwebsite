@@ -99,7 +99,7 @@ const researchInfo = {
       year: "(2024)",
       venue: "American Psychologist",
       volume: "",
-      issue: "Advance online publication.",
+      issue: " Advance online publication.",
       page: "",
       link: "https://doi.org/10.1037/amp0001385",
       doi: "https://osf.io/preprints/psyarxiv/sa6rc"
