@@ -64,7 +64,7 @@ const researchInfo = {
       title: "RegCheck: A tool for automating comparisons between study registrations and papers",
       authors: "Cummins, J., Clarke, B., Hussey, I. & Elson, M.",
       year: "(2026)",
-      venue: "ArXiv",
+      venue: "arXiv",
       volume: "",
       issue: "",
       page: "",
@@ -99,7 +99,7 @@ const researchInfo = {
       year: "(2024)",
       venue: "American Psychologist",
       volume: "",
-      issue: " Advance online publication.",
+      issue: " (Advance online publication.)",
       page: "",
       link: "https://doi.org/10.1037/amp0001385",
       doi: "https://osf.io/preprints/psyarxiv/sa6rc"
@@ -110,7 +110,7 @@ const researchInfo = {
       year: "(2024)",
       venue: "Social and Personality Psychology Compass",
       volume: "18",
-      issue: "7",
+      issue: "(7)",
       page: "e12979",
       link: "https://doi.org/10.1111/spc3.12979",
       doi: "https://doi.org/10.1111/spc3.12979"
@@ -122,7 +122,7 @@ const researchInfo = {
       year: "(2023)",
       venue: "Journal of Personality and Social Psychology",
       volume: "125",
-      issue: "4",
+      issue: "(4)",
       page: "874-901",
       link: "https://doi.org/10.1037/pspp0000458",
       doi: "https://psyarxiv.com/n4eq7/"
@@ -133,7 +133,7 @@ const researchInfo = {
       year: "(2024)",
       venue: "Advances in Methods and Practices in Psychological Science",
       volume: "7",
-      issue: "4",
+      issue: "(4)",
       page: "1-3",
       link: "https://doi.org/10.1177/25152459241283477",
       doi: "https://osf.io/preprints/psyarxiv/t2zs9" 
@@ -144,7 +144,7 @@ const researchInfo = {
       year: "(2024)",
       venue: "PLOS Biology",
       volume: "22",
-      issue: "8",
+      issue: "(8)",
       page: "e3002645",
       link: "https://doi.org/10.1371/journal.pbio.3002645",
       doi: "https://doi.org/10.1371/journal.pbio.3002645"
@@ -154,11 +154,11 @@ const researchInfo = {
       authors: "Whamond, A., Vazire, S., Clarke, B., Moodie, N., Schiavone, S. R., Thibault, R. T., & Hardwicke, T. E. ",
       year: "In press",
       venue: "Advances in Methods and Practices in Psychological Science",
-      volume: "",
-      issue: "",
+      volume: "8",
+      issue: "(3)",
       page: "",
-      link: "",
-      doi: "https://osf.io/eadhb/"
+      link: "https://doi.org/10.1177/25152459251366102",
+      doi: "https://doi.org/10.1177/25152459251366102"
     },
     {
       title: "Dynamics of social experiences in the context of extended lockdown.",
@@ -166,7 +166,7 @@ const researchInfo = {
       year: "(2023)",
       venue: "Social Psychological and Personality Science",
       volume: "15",
-      issue: "4",
+      issue: "(4)",
       page: "395-406",
       link: "https://doi.org/10.1177/19485506231176603",
       doi: "https://doi.org/10.1177/19485506231176603"
@@ -177,7 +177,7 @@ const researchInfo = {
       year: "(2022)",
       venue: "Monash Law Review",
       volume: "48",
-      issue: "2",
+      issue: "(2)",
       page: "59-96",
       link: "https://doi.org/10.26180/21899295.v2",
       doi: "https://doi.org/10.26180/21899295.v2"
