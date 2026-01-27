@@ -60,6 +60,39 @@ const skillsSection = {
 const researchInfo = {
   display: true, // Set false to hide this section, defaults to true
   publications: [
+      {
+      title: "RegCheck: A tool for automating comparisons between study registrations and papers",
+      authors: "Cummins, J., Clarke, B., Hussey, I. & Elson, M.",
+      year: "(2026)",
+      venue: "ArXiv",
+      volume: "",
+      issue: "",
+      page: "",
+      link: "https://doi.org/10.48550/arXiv.2601.13330",
+      doi: "https://doi.org/10.48550/arXiv.2601.13330"
+    },  
+      {
+      title: "P-curving social and personality psychology experiments: Changes from 2006 to 2019",
+      authors: "Clarke, B., Perfecto, H., Park, A. B., Gonzalez, F. J., O'Donnell, M., Schiavone, S. R., Bottesini, J. G., Nelson, L.,  & Vazire, S.",
+      year: "(2026)",
+      venue: "PsyArXiv",
+      volume: "",
+      issue: "",
+      page: "",
+      link: "https://doi.org/10.31234/osf.io/txzeu_v1",
+      doi: "https://doi.org/10.31234/osf.io/txzeu_v1"
+    },
+        {
+      title: "Do Researchers Claim Their Findings Are Applicable to the Real World? An Empirical Study of Social and Personality Psychology Articles",
+      authors: "Clarke, B., Sajjad, A., Moodie, N., & Vazire, S.",
+      year: "(2025)",
+      venue: "PsyArXiv",
+      volume: "",
+      issue: "",
+      page: "",
+      link: "https://doi.org/10.31234/osf.io/zjkcy_v1",
+      doi: "https://doi.org/10.31234/osf.io/zjkcy_v1"
+    },
     {
       title: "The prevalence of direct replication articles in top-ranking psychology journals",
       authors: "Clarke, B., Lee, P. Y., Schiavone, S. R., Rhemtulla, M. & Vazire, S.",
@@ -69,7 +102,7 @@ const researchInfo = {
       issue: "Advance online publication.",
       page: "",
       link: "https://doi.org/10.1037/amp0001385",
-      doi: " https://osf.io/preprints/psyarxiv/sa6rc"
+      doi: "https://osf.io/preprints/psyarxiv/sa6rc"
     },
     {
       title: "Looking our limitations in the eye: A tutorial for writing about research limitations in psychology",
@@ -160,11 +193,11 @@ const educationInfo = {
       schoolName: "The University of Melbourne",
       logo: require("./assets/images/uomLogo.png"),
       subHeader: "PhD in Psychology",
-      duration: "Jan 2022 - Submitted June 2025",
+      duration: "Jan 2022 -  Dec. 2025",
       desc: "Studying the state of social and personality psychology from three perspectives:",
       descBullets: [
+        "Estimating the prevalence of direct replication articles in top psychology journals",
         "Analyzing and describing common practices in statistical reporting in experimental social psychology",
-        "Exploring the relationship between the research limitations reported in published articles and actual research limitations",
         "Describing the types of claims authors make about how their findings can be applied to real world contexts"
       ]
     },
@@ -203,7 +236,7 @@ const techStack = {
 
 // Work experience section
 const workExperiences = {
-  display: true, //Set it to true to show workExperiences Section
+  display: false, //Set it to true to show workExperiences Section
   experience: [
     {
       role: "Research Assistant",
