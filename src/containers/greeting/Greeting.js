@@ -35,7 +35,7 @@ export default function Greeting() {
                     : "greeting-text-p subTitle"
                 }
               >
-              I am a Postdoc at the University of Bern, where I'm helping to validate <a href="https://regcheck.app" target="_blank" rel="noopener noreferrer">RegCheck</a>. My metaresearch examines how research methods and practices have been changing in psychology (especially social and personality psychology) over the replication crisis.
+              I am an incoming Junior Professor of Psychological Metascience at the <a href="https://leibniz-psychology.org" target="_blank" rel="noopener noreferrer">Leibniz Institute for Psychology (ZPID)</a>. Currently, I am a Postdoc at the University of Bern, where I'm helping to validate <a href="https://regcheck.app" target="_blank" rel="noopener noreferrer">RegCheck</a>. My metaresearch examines how research methods and practices have been changing in psychology (especially social and personality psychology) over the replication crisis.
               </p>
               <SocialMedia />
               <div className="button-greeting-div">
