@@ -48,10 +48,10 @@
   line-height: 40px;
 }
 
-.greeting-image-div {
-  max-height: 500px;
-  padding-left: 10%;
-  padding-top: 10px;
+.greeting-image-div > img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 50%; // optional, for a circular crop
 }
 
 .greeting-image-div > img {
