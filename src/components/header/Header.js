@@ -43,7 +43,7 @@ function Header() {
           )}
           {researchInfo && (
             <li>
-              <a href="#research">Research</a>
+              <a href="#research">Selected Papers (see CV for full list)</a>
             </li>
           )}
           {viewExperience && (

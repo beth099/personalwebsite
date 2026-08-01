@@ -86,21 +86,21 @@ const researchInfo = {
       title: "Do Researchers Claim Their Findings Are Applicable to the Real World? An Empirical Study of Social and Personality Psychology Articles",
       authors: "Clarke, B., Sajjad, A., Moodie, N., & Vazire, S.",
       year: "(2025)",
-      venue: "PsyArXiv",
-      volume: "",
-      issue: "",
-      page: "",
-      link: "https://doi.org/10.31234/osf.io/zjkcy_v1",
-      doi: "https://doi.org/10.31234/osf.io/zjkcy_v1"
+      venue: "Royal Society Open Science",
+      volume: "13",
+      issue: "(7)",
+      page: "260407",
+      link: "https://doi.org/10.1098/rsos.260407",
+      doi: "https://doi.org/10.1098/rsos.260407"
     },
     {
       title: "The prevalence of direct replication articles in top-ranking psychology journals",
       authors: "Clarke, B., Lee, P. Y., Schiavone, S. R., Rhemtulla, M. & Vazire, S.",
-      year: "(2024)",
+      year: "(2026)",
       venue: "American Psychologist",
-      volume: "",
-      issue: " (Advance online publication.)",
-      page: "",
+      volume: "81",
+      issue: "(2)",
+      page: "238-253",
       link: "https://doi.org/10.1037/amp0001385",
       doi: "https://osf.io/preprints/psyarxiv/sa6rc"
     },
@@ -126,61 +126,6 @@ const researchInfo = {
       page: "874-901",
       link: "https://doi.org/10.1037/pspp0000458",
       doi: "https://psyarxiv.com/n4eq7/"
-    },
-    {
-      title: "Prevalence of transparent research practices in empirical psychology articles published in 2022: A cross sectional study.",
-      authors: "Hardwicke, T. E., Thibault, R. T., Clarke, B., Moodie, N., Crüwell, S., Schiavone, S. R., Handcock, S., An Nghiem, K., Mody, F. Eerola, T. & Vazire, S.",
-      year: "(2024)",
-      venue: "Advances in Methods and Practices in Psychological Science",
-      volume: "7",
-      issue: "(4)",
-      page: "1-3",
-      link: "https://doi.org/10.1177/25152459241283477",
-      doi: "https://osf.io/preprints/psyarxiv/t2zs9" 
-    },
-    {
-      title: "An empirical appraisal of eLife’s assessment vocabulary.",
-      authors: "Hardwicke, T. E., Schiavone, S. R., Clarke, B., & Vazire, S.",
-      year: "(2024)",
-      venue: "PLOS Biology",
-      volume: "22",
-      issue: "(8)",
-      page: "e3002645",
-      link: "https://doi.org/10.1371/journal.pbio.3002645",
-      doi: "https://doi.org/10.1371/journal.pbio.3002645"
-    },
-    {
-      title: "How do psychology journals handle post-publication critique? A cross-sectional study of policy and practice..",
-      authors: "Whamond, A., Vazire, S., Clarke, B., Moodie, N., Schiavone, S. R., Thibault, R. T., & Hardwicke, T. E. ",
-      year: "In press",
-      venue: "Advances in Methods and Practices in Psychological Science",
-      volume: "8",
-      issue: "(3)",
-      page: "",
-      link: "https://doi.org/10.1177/25152459251366102",
-      doi: "https://doi.org/10.1177/25152459251366102"
-    },
-    {
-      title: "Dynamics of social experiences in the context of extended lockdown.",
-      authors: "Tran, A., Bianchi, V., Moeck, E. K., Clarke, B., Moore, I., Burney, S. J. H., Koval, P., Kalokerinos, E. K., & Greenaway, K. H.",
-      year: "(2023)",
-      venue: "Social Psychological and Personality Science",
-      volume: "15",
-      issue: "(4)",
-      page: "395-406",
-      link: "https://doi.org/10.1177/19485506231176603",
-      doi: "https://doi.org/10.1177/19485506231176603"
-    },
-    {
-      title: "The prejudices of expert evidence.",
-      authors: "Chin, J., Cullen, H. J., & Clarke, B.",
-      year: "(2022)",
-      venue: "Monash Law Review",
-      volume: "48",
-      issue: "(2)",
-      page: "59-96",
-      link: "https://doi.org/10.26180/21899295.v2",
-      doi: "https://doi.org/10.26180/21899295.v2"
     }
   ]
 };
