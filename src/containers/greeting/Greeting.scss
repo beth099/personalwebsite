@@ -114,7 +114,8 @@
     text-align: center;
   }
   .greeting-main {
-    display: block;
+    display: flex;
+    align-items: center;
   }
   .greeting-image-div {
     height: 256px;
