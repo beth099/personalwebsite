@@ -46,9 +46,11 @@
 }
 
 .greeting-image-div > img {
-  max-width: 50%;
+  max-width: 70%;
   height: auto;
   border-radius: 60%; // optional, for a circular crop
+  display: block;      
+  margin: 0 auto;
 }
 
 .wave-emoji {
