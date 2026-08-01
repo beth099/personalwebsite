@@ -51,7 +51,7 @@
 .greeting-image-div > img {
   max-width: 100%;
   height: auto;
-  display: block;
+  border-radius: 60%; // optional, for a circular crop
 }
 
 .greeting-image-div > img {
