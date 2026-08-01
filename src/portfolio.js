@@ -43,7 +43,9 @@ const skillsSection = {
   subTitle: "",
   skills: [
     ["Metaresearch, research methods, statistics"],
-    ["Social and personality psychology"],
+    ["Research quality"],
+    ["Science reform"],
+    ["Peer review"],
     ["Science communication"]
   ],
 
