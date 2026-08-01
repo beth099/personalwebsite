@@ -16,14 +16,11 @@
 
 .greeting-main {
   display: flex;
+  align-items: center;
 }
 
 .subTitle {
   color: $subTitle !important;
-}
-
-.greeting-main {
-  display: flex;
 }
 
 .greeting-main > * {
@@ -49,14 +46,9 @@
 }
 
 .greeting-image-div > img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 60%; // optional, for a circular crop
-}
-
-.greeting-image-div > img {
   max-width: 50%;
   height: auto;
+  border-radius: 60%; // optional, for a circular crop
 }
 
 .wave-emoji {
@@ -114,11 +106,10 @@
     text-align: center;
   }
   .greeting-main {
-    display: flex;
-    align-items: center;
+    flex-direction: column;
   }
-  .greeting-image-div {
-    height: 256px;
+  .greeting-image-div > img {
+    max-width: 70%;
   }
 }
 
